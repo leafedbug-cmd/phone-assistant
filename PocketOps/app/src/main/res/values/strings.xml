@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">PocketOps</string>
+    <string name="accessibility_service_description">PocketOps Supervised Navigation Assistant enables user-approved, interactive screen inspection and step-by-step phone navigation assistance. No actions are taken without explicit user consent.</string>
+    <string name="notification_listener_description">PocketOps Notification Manager collects notification metadata to categorize alerts, detect noisy apps, generate digests, and support focus routines.</string>
 </resources>
